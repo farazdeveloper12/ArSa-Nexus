@@ -1,0 +1,44 @@
+{
+  "name": "arsa-nexus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "create-admin": "node scripts/create-admin.js",
+    "reset-password": "node scripts/reset-password.js"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@types/yup": "^0.29.14",
+    "bcryptjs": "^3.0.2",
+    "chart.js": "^4.5.0",
+    "critters": "^0.0.23",
+    "formidable": "^3.5.4",
+    "formik": "^2.4.6",
+    "framer-motion": "^12.23.0",
+    "gsap": "^3.13.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.1",
+    "next": "^15.3.5",
+    "next-auth": "^4.24.11",
+    "next-connect": "^1.0.0",
+    "react": "^19.0.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "three": "^0.178.0",
+    "uuid": "^11.1.0",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
+  }
+}

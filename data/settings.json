@@ -1,0 +1,29 @@
+{
+  "siteName": "ArSa Nexus",
+  "siteDescription": "Professional AI Education & Training Platform",
+  "contactEmail": "info@arsanexus.com",
+  "phone": "+923343349102",
+  "address": "123 Tech Street, Innovation City, IC 12345",
+  "socialMedia": {
+    "facebook": "https://www.facebook.com/daad.rehman.2025/",
+    "twitter": "https://x.com/Dad_Rehman_",
+    "linkedin": "https://www.linkedin.com/in/dad-rehman/",
+    "instagram": "https://instagram.com/daad_rehman",
+    "youtube": "https://www.youtube.com/@dadrehman6151"
+  },
+  "seo": {
+    "metaTitle": "ArSa Nexus - AI Education & Professional Training",
+    "metaDescription": "Transform your career with cutting-edge AI education and professional training programs. Join thousands who have advanced their careers with Arsa Nexus.",
+    "metaKeywords": "AI education, machine learning, professional training, career development, technology courses",
+    "ogImage": "/images/og-image.jpg"
+  },
+  "features": {
+    "userRegistration": true,
+    "emailNotifications": true,
+    "maintenance": false,
+    "analytics": true,
+    "chatSupport": true
+  },
+  "updatedAt": "2025-07-08T14:14:34.809Z",
+  "updatedBy": "686cb5595b415041b74b1a04"
+}
